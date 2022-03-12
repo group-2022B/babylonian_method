@@ -1,5 +1,6 @@
 # babyloniam method
-S, d = 16, 3
+S = 16
+d = 3
 
 a = (S - d ** 2) / (2 * d)
 b = a + d
